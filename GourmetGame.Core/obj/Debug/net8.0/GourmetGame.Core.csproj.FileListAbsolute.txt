@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\bin\Debug\net8.0\GourmetGame.Core.deps.json
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\bin\Debug\net8.0\GourmetGame.Core.dll
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\bin\Debug\net8.0\GourmetGame.Core.pdb
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\GourmetGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\GourmetGame.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\GourmetGame.Core.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\GourmetGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\GourmetGame.Core.dll
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\refint\GourmetGame.Core.dll
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\GourmetGame.Core.pdb
+C:\Users\USUARIO\source\repos\GourmetGame\GourmetGame.Core\obj\Debug\net8.0\ref\GourmetGame.Core.dll

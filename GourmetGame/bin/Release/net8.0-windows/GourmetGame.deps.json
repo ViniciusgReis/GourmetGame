@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GourmetGame/1.0.0": {
+        "dependencies": {
+          "GourmetGame.Core": "1.0.0"
+        },
+        "runtime": {
+          "GourmetGame.dll": {}
+        }
+      },
+      "GourmetGame.Core/1.0.0": {
+        "runtime": {
+          "GourmetGame.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GourmetGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GourmetGame.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Window x:Class="GourmetGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GourmetGame"
+        mc:Ignorable="d"
+        Title="Gourmet Game" Height="150" Width="250" ResizeMode="NoResize">
+    <StackPanel>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height= "35"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="1" HorizontalAlignment="Center" Grid.ColumnSpan="2">Pense em um prato que gosta</TextBlock>
+            <Button Grid.Row="2" Content="OK" Width="50" Height="25" Margin="20" Grid.ColumnSpan="2" Click="Button_Click"/>
+
+        </Grid>
+    </StackPanel>
+</Window>
